@@ -1,1 +1,1 @@
-This is code for a basic website which I have written with several scripting languages with the help of online learning sources. It is one of the first few projects I have built and is titled myproject.
+This is code for a basic website which I have written with several scripting languages with the help of online learning sources and templates. It is one of the first few projects I have built and is titled myproject.
